@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X3.4]]></item>
+	<item id="Time"><![CDATA[2020-10-11 00:42]]></item>
+	<item id="From"><![CDATA[Discuz! Board (http://localhost:8008/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[SodionAuthDiscuz]]></item>
+			<item id="identifier"><![CDATA[discuz_sodion_auth]]></item>
+			<item id="description"><![CDATA[SodionAuth api for Discuz.]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[discuz_sodion_auth/]]></item>
+			<item id="copyright"><![CDATA[Mohist Community]]></item>
+			<item id="modules"><![CDATA[a:0:{}]]></item>
+			<item id="version"><![CDATA[v0.0.1]]></item>
+		</item>
+		<item id="version"><![CDATA[X3.4]]></item>
+	</item>
+</root>

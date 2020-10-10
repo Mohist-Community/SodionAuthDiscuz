@@ -1,0 +1,5 @@
+{
+  "require": {
+    "mohist/sodion-auth": "^0.0.1"
+  }
+}

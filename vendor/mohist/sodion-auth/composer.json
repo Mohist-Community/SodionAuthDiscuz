@@ -1,0 +1,23 @@
+{
+    "name": "mohist/sodion-auth",
+    "description": "SodionAuth api core.",
+    "version": "v0.0.1",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "logos",
+            "email": "1102280066@qq.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mohist\\SodionAuth\\": "src/"
+        }
+    },
+    "extra": {
+    }
+}

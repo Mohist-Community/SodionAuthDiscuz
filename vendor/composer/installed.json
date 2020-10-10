@@ -1,0 +1,46 @@
+[
+    {
+        "name": "mohist/sodion-auth",
+        "version": "v0.0.1",
+        "version_normalized": "0.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Mohist-Community/SodionAuthPhp.git",
+            "reference": "54a32cc47f34e5b8025442530d6e5f59f18fe421"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Mohist-Community/SodionAuthPhp/zipball/54a32cc47f34e5b8025442530d6e5f59f18fe421",
+            "reference": "54a32cc47f34e5b8025442530d6e5f59f18fe421",
+            "shasum": "",
+            "mirrors": [
+                {
+                    "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                    "preferred": true
+                }
+            ]
+        },
+        "require": {
+            "ext-json": "*"
+        },
+        "time": "2020-10-10T16:16:08+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Mohist\\SodionAuth\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "logos",
+                "email": "1102280066@qq.com"
+            }
+        ],
+        "description": "SodionAuth api core."
+    }
+]
